@@ -1,0 +1,12 @@
+<p></p> <table width="520" align="center" border="0" cellspacing="0" cellpadding="2"> <tbody> <tr> <td height="30" colspan="3"> <h1>Electric Motor Test Systems</h1></td> <td width="23%" align="middle" rowspan="4"> <p align="center"> <img width="100" height="80" alt="" src="/Portals/0/TDS_System2.jpg"></p><p><a href="mailto:jenkins.orders@gmail.com">Request Info</a></p></td></tr>
+<tr> <td width="25%" height="25">100 KVA AC/DC</td> <td width="25%">200 KVA AC/DC</td> <td width="27%">500 KVA AC/DC</td></tr> <tr> <td width="25%" height="25">166 KVA AC/DC</td> <td width="25%">333 KVA AC/DC</td> <td width="27%">750 KVA AC/DC</td></tr><tr><td width="25%" height="25">DC Supply</td><td width="25%">1000 KVA AC/DC</td><td width="27%">TDS Software</td></tr> <tr> <td height="25" colspan="4"> <hr noshade=""> </td></tr><tr> <td height="30" colspan="3"> <h1>Test System Circuit Components</h1></td> <td width="23%" align="middle" rowspan="3"> <p align="center"><img width="84" height="80" alt="" src="/Portals/0/Test_Tapswitch.jpg"></p></td></tr> <tr> <td width="25%" height="25">Rectifiers</td> <td width="25%">CTs and PTs</td> <td width="27%">Tap Switches</td></tr> <tr> <td width="25%" height="25">Contactors</td> <td width="25%">Circuit Protectors</td> <td width="27%">Supercons</td></tr> <tr> <td width="25%" height="25">Transformers</td> <td width="25%">Thermal Protectors</td> <td width="27%"> Varistors</td> <td width="23%" align="middle"> </td></tr> <tr> <td height="25" colspan="4"> <hr noshade=""> </td></tr> <tr> <td height="30" colspan="3"> <h1>Meters & Test Instruments</h1></td> <td width="23%" align="middle" rowspan="3"><img width="80" height="74" alt="" src="/Portals/0/jenkins shark meter.jpg"></td></tr> <tr> <td width="25%" height="25">Panel Meters</td> <td width="25%">Clamp-On Meters</td> <td width="27%">DMMs</td></tr> <tr> <td width="25%" height="25">Megohmeters</td> <td width="25%">PQ Meters</td> <td width="27%">O-Scopes</td></tr> <tr> <td width="25%" height="25">Tachometers</td> <td colspan="2">Vibration Test System (VTS)</td> <td width="23%" align="middle"> </td></tr></tbody></table><br /><br />
+
+
+
+
+
+
+
+
+
+
